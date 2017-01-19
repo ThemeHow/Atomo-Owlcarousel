@@ -1,3 +1,6 @@
+Forked from https://github.com/aulaideal/Atomo-Owlcarousel
+
+
 # Atomo "Owl carousel"
 Este átomo para Gantry 5 nos permite incluir la libreria Jquery "Owl Carousel":http://owlcarousel2.github.io/OwlCarousel2/ dentro de su diseño, necesario para el correcto funcionamiento de muchas partículas.
 
